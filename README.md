@@ -1,8 +1,3 @@
 # Amazon Product Card (Without Image)
 
-
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://github.com/IshwarTrada/Amazon-Product-Card-Using-React/assets/121044852/3b181dea-d872-4e1f-97c6-18b10b60d353
