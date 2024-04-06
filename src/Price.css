@@ -1,0 +1,14 @@
+.oPrice {
+  text-decoration: line-through;
+}
+
+.nPrice {
+  font-weight: bold;
+}
+
+.Prices {
+  background-color: #e0c367;
+  height: 30px;
+  border-bottom-left-radius: 14px;
+  border-bottom-right-radius: 14px;
+}
